@@ -2,6 +2,13 @@
   Hi there, 👋👋 I am Jacky Wang. 
 </h1>
 
+<p align="center">
+  <code>Management Information Systems Engineer</code> / <code>Network Engineer</code> /<code>Amateur Photographer</code>
+  <br/>
+  <br/>
+  🌱 I’m currently learning JAVA & SQL
+</p>
+
 
 <!--
 ### Hi there 👋
