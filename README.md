@@ -6,7 +6,7 @@
   <code>Management Information Systems Engineer</code> / <code>Network Engineer</code> /<code>Amateur Photographer</code>
   <br/>
   <br/>
-  🌱 I’m currently learning JAVA & SQL
+  🌱 I’m currently learning JAVA
 </p>
 
 
